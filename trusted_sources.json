@@ -15,6 +15,13 @@
       "repo": "https://github.com/jerome7562/astro",
       "validated_since": "2026-02-06",
       "notes": "ViTMatte AI matting"
+    },
+    "denoiser_oidn": {
+      "trust_level": "official",
+      "author": "jerome",
+      "repo": "https://github.com/jerome7562/astro",
+      "validated_since": "2026-02-06",
+      "notes": "Intel OIDN AI denoiser"
     }
   },
   "trusted_developers": {
@@ -26,5 +33,5 @@
     }
   },
   "banned_plugins": [],
-  "signature": "KF2is6X5mmjQaRPcs3LLFlKTHHrVKuCs0kIAvxFYshtPgUb8cUOLvQ+NZ8SRTKAB/xmwuIPoCDj17N2TnjlmDA=="
+  "signature": "BP8G7+qRCArO5wSPsxZLg2dL2upkXAyPLuhcDuY7ceXRyqBBmyb/Fjj9M6CXiNfQrXsxahFMw29Aaox6iYGVCQ=="
 }
