@@ -1,0 +1,30 @@
+{
+  "version": "1",
+  "last_updated": "2026-02-06",
+  "trusted_plugins": {
+    "sam3": {
+      "trust_level": "official",
+      "author": "jerome",
+      "repo": "https://github.com/jerome7562/astro",
+      "validated_since": "2026-02-06",
+      "notes": "SAM3 AI segmentation - Meta Segment Anything Model 3"
+    },
+    "vitmatte": {
+      "trust_level": "official",
+      "author": "jerome",
+      "repo": "https://github.com/jerome7562/astro",
+      "validated_since": "2026-02-06",
+      "notes": "ViTMatte AI matting"
+    }
+  },
+  "trusted_developers": {
+    "jerome": {
+      "trust_level": "official",
+      "github": "https://github.com/jerome7562",
+      "validated_since": "2026-02-06",
+      "notes": "Astro main developer"
+    }
+  },
+  "banned_plugins": [],
+  "signature": "KF2is6X5mmjQaRPcs3LLFlKTHHrVKuCs0kIAvxFYshtPgUb8cUOLvQ+NZ8SRTKAB/xmwuIPoCDj17N2TnjlmDA=="
+}
