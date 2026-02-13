@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "last_updated": "2026-02-06",
+  "last_updated": "2026-02-14",
   "trusted_plugins": {
     "sam3": {
       "trust_level": "official",
@@ -9,12 +9,26 @@
       "validated_since": "2026-02-06",
       "notes": "SAM3 AI segmentation - Meta Segment Anything Model 3"
     },
+    "sam2": {
+      "trust_level": "official",
+      "author": "jerome",
+      "repo": "https://github.com/jerome7562/astro",
+      "validated_since": "2026-02-14",
+      "notes": "SAM 2 AI segmentation - Meta Segment Anything Model 2 (Apache 2.0)"
+    },
     "vitmatte": {
       "trust_level": "official",
       "author": "jerome",
       "repo": "https://github.com/jerome7562/astro",
       "validated_since": "2026-02-06",
-      "notes": "ViTMatte AI matting"
+      "notes": "ViTMatte AI matting (MIT)"
+    },
+    "florence2": {
+      "trust_level": "official",
+      "author": "jerome",
+      "repo": "https://github.com/jerome7562/astro",
+      "validated_since": "2026-02-14",
+      "notes": "Florence-2 Vision AI - Microsoft multi-task vision model (MIT)"
     },
     "denoiser_oidn": {
       "trust_level": "official",
@@ -33,5 +47,5 @@
     }
   },
   "banned_plugins": [],
-  "signature": "BP8G7+qRCArO5wSPsxZLg2dL2upkXAyPLuhcDuY7ceXRyqBBmyb/Fjj9M6CXiNfQrXsxahFMw29Aaox6iYGVCQ=="
+  "signature": "9g1EVjruhh/fmTUuRaCc5X1coWINNI+xbdi7K4YpCcPuxohSb3HlXEV5rlZx3pzCwo5uy0THEYkAtfCSs7e8Dw=="
 }
