@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "last_updated": "2026-02-14",
+  "last_updated": "2026-05-11",
   "trusted_plugins": {
     "sam3": {
       "trust_level": "official",
@@ -36,6 +36,13 @@
       "repo": "https://github.com/jerome7562/astro",
       "validated_since": "2026-02-06",
       "notes": "Intel OIDN AI denoiser"
+    },
+    "upscale_ai": {
+      "trust_level": "official",
+      "author": "jerome",
+      "repo": "https://github.com/jerome7562/astro",
+      "validated_since": "2026-05-11",
+      "notes": "AI Upscale - Real-ESRGAN (BSD-3), RealPLKSR (Apache-2), DRCT (MIT), MambaIRv2 (Apache-2), OSEDiff/InvSR/Flux/SUPIR (mixed, see plugin LICENSE.txt)"
     }
   },
   "trusted_developers": {
@@ -47,5 +54,5 @@
     }
   },
   "banned_plugins": [],
-  "signature": "9g1EVjruhh/fmTUuRaCc5X1coWINNI+xbdi7K4YpCcPuxohSb3HlXEV5rlZx3pzCwo5uy0THEYkAtfCSs7e8Dw=="
+  "signature": "7Pn/Ip3AeLH7Pu2/A8I7bo5loWtAiYeesYSnoOZig9oMT1QcMFN8j6fE3b5xeT3YM3yKpNgqf33U4CZo+Pi1AQ=="
 }
